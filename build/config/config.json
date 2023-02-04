@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf70cBb396E1A179220DC6123860a2A69b2cb9dd6",
+  "SCAN_LINK": "https://evm.explorer.canto.io/0xf70cBb396E1A179220DC6123860a2A69b2cb9dd6",
+  "NETWORK": {
+    "NAME": "Canto",
+    "SYMBOL": "CANTO",
+    "ID": 7700
+  },
+  "NFT_NAME": "Canto Pattern",
+  "SYMBOL": "CP",
+  "MAX_SUPPLY": 222,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Alto",
+  "MARKETPLACE_LINK": "https://alto.build/collections/0xf70cBb396E1A179220DC6123860a2A69b2cb9dd6",
+  "SHOW_BACKGROUND": true
+}
